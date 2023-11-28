@@ -1,0 +1,33 @@
+{
+"products":[
+{
+"id":1,
+"title":"Lemon cheesecake",
+"description":"Cheesecake is a sweet dessert consisting of one or more layers. The main, and thickest layer, consists of a mixture of soft, fresh cheese (typically cream cheese or ricotta), eggs, and sugar",
+"price":"20"'
+"images":"https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/lemoncheese_cake.jpg"
+ },
+{
+ "id": 2,
+"title":"Carrot cake",
+"description":"The most common icing on carrot cake is icing sugar and lemon juice or icing sugar and kirsch (Europe) and an icing with icing sugar, butter and cream cheese",
+"image":"https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/carrot_cake.jpg"
+},
+{
+"id":3,
+"title":"Victoria sponge",
+"description":" A typical Victoria sponge consists of raspberry jam and whipped double cream or vanilla cream. The jam and cream are sandwiched between two sponge cakes",
+"image":"https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/victoria_sponge.jpg"
+},
+{
+"id":4,
+"title":"Banana cake",
+"description":"Banana cake is prepared using banana as a primary ingredient and typical cake ingredients such as flour, sugar, eggs, butter, margarine or oil and baking soda.",
+"image":"https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/banana_cake.jpg"
+},
+{
+"id":5,
+"title":"Chocolate cake",
+"description":"Chocolate cake is a cake flavored with melted chocolate, cocoa powder, or sometimes both.",
+"image":"https://raw.githubusercontent.com/filippella/Dagger-Rx-Database-MVP/master/cakes/chocolate_cake.jpg"
+}
